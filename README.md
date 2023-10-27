@@ -2,8 +2,7 @@
 
 ### Video
 
-[<img src="https://i.ytimg.com/vi/6E2DqV1OE1E/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=6E2DqV1OE1E "Demo video")
-
+[<img src="https://img.youtube.com/vi/6E2DqV1OE1E/sddefault.jpg" width="50%">](https://www.youtube.com/watch?v=6E2DqV1OE1E "Demo video")
 
 ### Build binaries 
 
